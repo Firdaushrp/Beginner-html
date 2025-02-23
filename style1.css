@@ -1,0 +1,124 @@
+body {
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+* {
+    font-family: "Montserrat";
+}
+
+header {
+    text-align: center;
+}
+
+.full {
+    position: relative;
+    margin: 0 0 0 0;
+    width: 500px;
+    height: 500px;
+}
+.kotak {
+    position: relative;
+    margin: 0 0 -70px 350px;
+    width: 100px;
+    height: 100px;
+    background-color: #202427;  
+}
+
+.kotak1 {
+    position: relative;
+    margin: -50px 0 0 1050px;
+    width: 100px;
+    height: 100px;
+    background-color: #202427;
+}
+
+.kotak2 {
+    width: 50px;
+    height: 50px;
+    background-color: #dadada;
+}
+
+.main {
+    position: relative;
+    margin: 10px 0 0 80%;
+    padding: 0 500px 300px 0;
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0);
+    border-radius: 2px;
+    
+}
+
+.firdaus {
+    position: flex;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 2px;
+}
+.tabel_kiri {
+    padding: 0 0 300px 0;
+    width: 200px;
+    height: 200px;
+    background-color: #202427;
+    font-weight: bold;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    line-height: 40px;
+}
+
+.tabel_kiri-alt {
+    padding: 0 0 0 10px;
+    color: whitesmoke;
+}
+
+.tabel_kiri-alt-alt {
+    position: relative;
+    margin: -140% 0 0 45%;
+    color: whitesmoke;
+}
+
+.tabel_kanan {
+    position: relative;
+    margin: -500px 0 0 200px;
+    width: 500px;
+    height: 500px;
+    background-color: #dadada;
+    font-weight: bold;
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    line-height: 40px;
+}
+
+.tabel_kanan-alt-about {
+    font-size: 50px;
+    padding: 10px;
+}
+
+.text-kanan {
+    padding: 0 0 0 8px;
+    line-height: normal ;
+    font-size: 15px;
+}
+
+.tabel_kanan-alt-skill {
+    font-size: 50px;
+    padding: 10px;
+}
+
+.logo-instagram {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 8px 0 0 8px;
+}
+
+.sm {
+    font-size: 30px;
+    position: relative;
+    margin: -60px 0 0 65px;
+}
+
